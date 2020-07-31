@@ -1,5 +1,7 @@
-# Awesome Screenshot Minus
-
+# Awesome Screenshot Minus - Edge port
+---
+This is fork of the original made for submitting extension to MS Store for use in Edge browser.
+---
 This extension was created because I liked the original Awesome Screenshot extension by Diigo but could not trust it not to sell me out.
 It has now been removed from the webstore, reportedly for user privacy violations -- all true. I found a lot of questionable stuff inside. 
 
@@ -14,8 +16,6 @@ Here are the things I added, in addition to removing all the junk:
  ** Less intrusive (minimum amount of code is injected into pages).
 
 Get it in store: [here](https://chrome.google.com/webstore/detail/awesome-screenshot-minus/bnophbnknjcjnbadhhkciahanapffepm)
-
-Beta version (more frequent updates, but less stable): [here](https://chrome.google.com/webstore/detail/awesome-screenshot-minus/nlpijfidodaooggfpobkofgcedonamgd)
 
 Note on permissions:
   * all_urls: Required for shortcut-initiated captures to work, otherwise could be replaced with activeTab.
